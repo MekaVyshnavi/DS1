@@ -1,1 +1,2 @@
 # DS1
+In this project a company's stock and revenue data is extracted. The historical stock data is extracted using yfinance library of python and Ticker module whereas the revenue data is extracted from website and then parsing through that html text of the website. Later, a graph is plotted between them to identify patterns so that it might help investors to invest their money on popular stocks.
